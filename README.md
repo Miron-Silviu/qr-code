@@ -22,6 +22,8 @@ Users should be able to:
 ## Screenshot
 
 ![Mobile layout](image.png)
+[ Lighthouse Audit Report ]<img width="952" alt="image" src="https://github.com/user-attachments/assets/5853d5ca-0b3d-46db-b0b8-71509e443fbb">
+
 
 ## My process
 
