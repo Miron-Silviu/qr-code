@@ -1,22 +1,15 @@
 # QR CODE
 
-
-
-
 ## Table of contents
 
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [My process](#my-process)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
-- [Continued development](#continued-development)
-- [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-### The challenge
+## The challenge
 
 Users should be able to:
 
@@ -42,7 +35,7 @@ Users should be able to:
 
 ## What I learned
 
-I impoved my knowledeges regarding flex propeties. 
+I impoved my knowledeges regarding flex propeties. The project was build with mobile first in mind. 
 
 ```html
 
@@ -50,6 +43,15 @@ I impoved my knowledeges regarding flex propeties.
 ```
 
 ```css
+body {
+  font-family: "Outfit", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+}
 
 }
 ```
