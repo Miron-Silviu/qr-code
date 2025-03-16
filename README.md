@@ -2,12 +2,16 @@
 
 ## Table of contents
 
+- [Links](#links)
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Acknowledgments](#acknowledgments)
+
+
+ ## Links
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/qr-code/)
 
 ## The challenge
 
@@ -15,9 +19,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-## Links
 
-[VIEW:DEMO](https://miron-silviu.github.io/qr-code/)
+
+
+
+
 
 ## Screenshot
 
